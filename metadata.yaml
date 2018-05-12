@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35591
     wikipedia: http://en.wikipedia.org/wiki/Miriam_Allen_deFord
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32541#One-Way
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2010-05-26'
 gutenberg_type: Text
